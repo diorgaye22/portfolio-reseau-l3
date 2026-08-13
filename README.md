@@ -21,3 +21,7 @@ Je développe progressivement mes compétences dans les domaines des réseaux, d
 - Linux
 - Virtualisation
 - Bases de la cybersécurité
+
+## 📸 Topologie du réseau
+
+![Topologie du TP](nom-de-ta-capture.png)
